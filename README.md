@@ -1,2 +1,2 @@
 # Data-Visualization-Final
-Demonstrates proficiency in data visualization software, such as Tableau
+Demonstrates proficiency in data visualization software, such as Tableau.
